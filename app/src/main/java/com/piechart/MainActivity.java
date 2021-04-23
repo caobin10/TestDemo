@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity implements OnChartValueSelec
 //    private Button button5;
     private double i;
     private MyPieChart pie_chart;
+
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
